@@ -1,0 +1,10 @@
+C:\Users\salih\source\repos\NesneProje\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\salih\source\repos\NesneProje\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\salih\source\repos\NesneProje\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.csprojAssemblyReference.cache
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.FrmGiris.resources
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.Properties.Resources.resources
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.csproj.GenerateResource.cache
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.pdb
