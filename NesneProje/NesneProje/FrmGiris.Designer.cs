@@ -35,6 +35,7 @@ namespace NesneProje
             this.lblSifre = new System.Windows.Forms.Label();
             this.btnGiris = new System.Windows.Forms.Button();
             this.btnKayit = new System.Windows.Forms.Button();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // txtNick
@@ -88,11 +89,22 @@ namespace NesneProje
             this.btnKayit.Text = "Kayıt Ol";
             this.btnKayit.UseVisualStyleBackColor = true;
             // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(337, 162);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(98, 21);
+            this.checkBox1.TabIndex = 6;
+            this.checkBox1.Text = "checkBox1";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            // 
             // FrmGiris
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(462, 420);
+            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.btnKayit);
             this.Controls.Add(this.btnGiris);
             this.Controls.Add(this.lblSifre);
@@ -114,6 +126,7 @@ namespace NesneProje
         private System.Windows.Forms.Label lblSifre;
         private System.Windows.Forms.Button btnGiris;
         private System.Windows.Forms.Button btnKayit;
+        private System.Windows.Forms.CheckBox checkBox1;
     }
 }
 
