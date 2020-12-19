@@ -1,7 +1,7 @@
 ﻿
-namespace NesneProje
+namespace NesneProje.Formlar
 {
-    partial class FrmKayit
+    partial class FrmMudurPaneli
     {
         /// <summary>
         /// Required designer variable.
@@ -31,13 +31,13 @@ namespace NesneProje
         {
             this.SuspendLayout();
             // 
-            // FrmKayit
+            // FrmMudurPaneli
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(491, 474);
-            this.Name = "FrmKayit";
-            this.Text = "FrmKayit";
+            this.ClientSize = new System.Drawing.Size(576, 362);
+            this.Name = "FrmMudurPaneli";
+            this.Text = "FrmMudurPaneli";
             this.ResumeLayout(false);
 
         }
