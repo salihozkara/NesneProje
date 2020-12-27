@@ -1,0 +1,157 @@
+C:\Users\salih\source\repos\NesneProje\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\salih\source\repos\NesneProje\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\salih\source\repos\NesneProje\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.csprojAssemblyReference.cache
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.FrmGiris.resources
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.Properties.Resources.resources
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.csproj.GenerateResource.cache
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.pdb
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.FrmAdminPanel.resources
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.FrmKayit.resources
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.FrmMarketler.resources
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.Calisanlar.resources
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.Formlar.FrmUrunler.resources
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.Formlar.FrmTedarikciler.resources
+C:\Users\salih\source\repos\NesneProje\NesneProje\obj\Debug\NesneProje.Formlar.FrmMudurPaneli.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\obj\Debug\NesneProje.csprojAssemblyReference.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\obj\Debug\NesneProje.FrmAdminPanel.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\obj\Debug\NesneProje.FrmGiris.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\obj\Debug\NesneProje.FrmKayit.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\obj\Debug\NesneProje.FrmMarketler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\obj\Debug\NesneProje.Formlar.FrmMudurPaneli.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\obj\Debug\NesneProje.Formlar.FrmTedarikciler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\obj\Debug\NesneProje.Formlar.FrmUrunler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\obj\Debug\NesneProje.Properties.Resources.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\obj\Debug\NesneProje.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\obj\Debug\NesneProje.pdb
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\obj\Debug\NesneProje.Formlar.FrmAnasayfa.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje\NesneProje\obj\Debug\NesneProje.Formlar.FrmCalisanlar.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.csprojAssemblyReference.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Formlar.FrmAnasayfa.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Formlar.FrmCalisanlar.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.FrmAdminPanel.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.FrmGiris.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.FrmKayit.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.FrmMarketler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Formlar.FrmMudurPaneli.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Formlar.FrmTedarikciler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Formlar.FrmUrunler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Properties.Resources.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.pdb
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.csprojAssemblyReference.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.Formlar.FrmAnasayfa.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.Formlar.FrmCalisanlar.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.FrmAdminPanel.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.FrmGiris.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.FrmKayit.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.FrmMarketler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.Formlar.FrmMudurPaneli.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.Formlar.FrmTedarikciler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.Formlar.FrmUrunler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.Properties.Resources.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.pdb
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.csprojAssemblyReference.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.Formlar.FrmAnasayfa.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.Formlar.FrmCalisanlar.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.FrmAdminPanel.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.FrmGiris.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.FrmKayit.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.FrmMarketler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.Formlar.FrmMudurPaneli.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.Formlar.FrmTedarikciler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.Formlar.FrmUrunler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.Properties.Resources.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - Kopya - Kopya - Kopya\NesneProje\obj\Debug\NesneProje.pdb
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\obj\Debug\NesneProje.csprojAssemblyReference.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\obj\Debug\NesneProje.Formlar.FrmAnasayfa.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\obj\Debug\NesneProje.Formlar.FrmCalisanlar.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\obj\Debug\NesneProje.FrmAdminPanel.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\obj\Debug\NesneProje.FrmGiris.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\obj\Debug\NesneProje.FrmKayit.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\obj\Debug\NesneProje.FrmMarketler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\obj\Debug\NesneProje.Formlar.FrmTedarikciler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\obj\Debug\NesneProje.Formlar.FrmUrunler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\obj\Debug\NesneProje.Properties.Resources.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\obj\Debug\NesneProje.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\nesne projeler\NesneProje - bitti düzenlendi\NesneProje\obj\Debug\NesneProje.pdb
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.csprojAssemblyReference.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.Formlar.FrmAnasayfa.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.Formlar.FrmCalisanlar.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.FrmAdminPanel.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.FrmGiris.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.FrmKayit.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.FrmMarketler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.Formlar.FrmTedarikciler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.Formlar.FrmUrunler.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.Properties.Resources.resources
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\salih\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.pdb
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.csprojAssemblyReference.cache
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.Formlar.FrmAnasayfa.resources
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.Formlar.FrmCalisanlar.resources
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.FrmAdminPanel.resources
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.FrmGiris.resources
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.FrmKayit.resources
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.FrmMarketler.resources
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.Formlar.FrmTedarikciler.resources
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.Formlar.FrmUrunler.resources
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.Properties.Resources.resources
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.csproj.GenerateResource.cache
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\efese\Desktop\NesneProje - bitti son\NesneProje\obj\Debug\NesneProje.pdb
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\obj\Debug\NesneProje.csprojAssemblyReference.cache
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\obj\Debug\NesneProje.Formlar.FrmAnasayfa.resources
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\obj\Debug\NesneProje.Formlar.FrmCalisanlar.resources
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\obj\Debug\NesneProje.FrmAdminPanel.resources
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\obj\Debug\NesneProje.FrmGiris.resources
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\obj\Debug\NesneProje.FrmKayit.resources
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\obj\Debug\NesneProje.FrmMarketler.resources
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\obj\Debug\NesneProje.Formlar.FrmTedarikciler.resources
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\obj\Debug\NesneProje.Formlar.FrmUrunler.resources
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\obj\Debug\NesneProje.Properties.Resources.resources
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\obj\Debug\NesneProje.csproj.GenerateResource.cache
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\theca\Desktop\NesneProje - bitti son final\NesneProje\obj\Debug\NesneProje.pdb
